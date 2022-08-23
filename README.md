@@ -26,7 +26,7 @@ Additional OpenVAS Reporting tool was installed to convert OpenVAS XML into a re
 ![image](https://user-images.githubusercontent.com/95695894/186098681-ce8fcd52-88c0-482f-bc4e-4241a9e05fad.png)  
 ![image](https://user-images.githubusercontent.com/95695894/186099650-44271709-0473-476d-9e35-93d26860a350.png)
 
-`RAW report link:` https://github.com/GopiNJ/ACE-Security-Scanning/blob/main/reports/report-a701f3ec-3055-4353-8b58-faee764ab6bf.xml
+`RAW report link:` https://github.com/GopiNJ/ACE-Security-Scanning/blob/main/reports/report-a701f3ec-3055-4353-8b58-faee764ab6bf.xml  
 `Formated report link:` https://github.com/GopiNJ/ACE-Security-Scanning/blob/main/reports/openvas_report.xlsx
 
 ## Sample findings and remediations
