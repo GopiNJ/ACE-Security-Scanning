@@ -23,7 +23,13 @@
 
 `Full report link:` https://github.com/GopiNJ/ACE-Security-Scanning/blob/main/reports/openvas_report.xlsx
 
-
 ## Sample findings and remediations
+`Sample 1`
+![image](https://user-images.githubusercontent.com/95695894/186101919-6c692033-20ba-42e4-a064-68fb11adfb7d.png)
+`Sample 2`
+![image](https://user-images.githubusercontent.com/95695894/186102048-b92a896d-7934-4b73-8929-e3aabe745de8.png)
+`Sample 3`
+![image](https://user-images.githubusercontent.com/95695894/186102171-cdfbe719-c777-486a-8c03-7d55ecfc8a05.png)
+`Sample 4`
 
 ## References
