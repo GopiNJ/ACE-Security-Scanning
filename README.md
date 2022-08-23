@@ -6,7 +6,8 @@
 `PenTest VM:` Kali Linux  
 `Target VM:` Metasploitable2 Linux  
 ## Scanning Method
-
+### Vulnerability Scanning method  
+For this scenario, the automated test scans were used to assess internal systems of the targeted host which generated a vulnerability scanning report that includes information about the severity of the vulnerability and how it can be exploited.
 ## OpenVAS/GVM configs
 ### Target host config
 ![GVM_target_host_config](https://user-images.githubusercontent.com/95695894/186097103-7300223f-dd2d-49ce-862d-d9c00e9ff480.PNG)  
@@ -16,10 +17,12 @@
 ![GVM_security_scan_task](https://user-images.githubusercontent.com/95695894/186097313-03e84635-f434-4535-bf6f-c2d277437d2a.PNG)
 
 ## Results
-### Scan results on OpenVAS/GVM tool
+Scan results on OpenVAS/GVM tool  
+
 ![GVM_results_13_aug_2022](https://user-images.githubusercontent.com/95695894/186097553-4cbf8c96-a622-43f5-884e-bc28ba5a8959.PNG)
-## Reports & Summary
-### Additional OpenVAS Reporting tool was installed to convert OpenVAS XML into a readable and presentable report as shown below.
+## Reports & Summary  
+Additional OpenVAS Reporting tool was installed to convert OpenVAS XML into a readable and presentable report as shown below. 
+
 ![image](https://user-images.githubusercontent.com/95695894/186098681-ce8fcd52-88c0-482f-bc4e-4241a9e05fad.png)  
 ![image](https://user-images.githubusercontent.com/95695894/186099650-44271709-0473-476d-9e35-93d26860a350.png)
 
@@ -27,7 +30,8 @@
 `Formated report link:` https://github.com/GopiNJ/ACE-Security-Scanning/blob/main/reports/openvas_report.xlsx
 
 ## Sample findings and remediations
-### 5 common types of vulnerabilities stating type, severity and remediation steps required to fix listed below for reference purpose. 
+5 common types of vulnerabilities stating type, severity and remediation steps required to fix listed below for reference purpose.  
+
 `Sample 1`
 ![image](https://user-images.githubusercontent.com/95695894/186101919-6c692033-20ba-42e4-a064-68fb11adfb7d.png)
 `Sample 2`
