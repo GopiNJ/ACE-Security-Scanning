@@ -23,6 +23,9 @@ Scan results on OpenVAS/GVM tool
 ## Reports & Summary  
 Additional OpenVAS Reporting tool was installed to convert OpenVAS XML into a readable and presentable report as shown below. 
 
+Code used: openvasreporting -i /home/kali/report-a701f3ec-3055-4353-8b58-faee764ab6bf.xml
+<img width="631" alt="Screenshot 2022-08-24 at 8 50 09 AM" src="https://user-images.githubusercontent.com/95695894/186291103-798043ce-4dc9-47e3-8e54-84c0e9b3bdd8.png">
+
 ![image](https://user-images.githubusercontent.com/95695894/186098681-ce8fcd52-88c0-482f-bc4e-4241a9e05fad.png)  
 ![image](https://user-images.githubusercontent.com/95695894/186099650-44271709-0473-476d-9e35-93d26860a350.png)
 
